@@ -1,0 +1,35 @@
+{
+  "name": "hexo-tag-soundcloud",
+  "version": "1.0.0",
+  "main": "index",
+  "dependencies": {},
+  "description": "Embed soundcloud tweet tag plugin for Hexo.",
+  "devDependencies": {},
+  "directories": {},
+  "author": {
+    "email": "tea3gtinfo@gmail.com",
+    "name": "tea3",
+    "url": "https://tea3.github.io/"
+  },
+  "bugs": {
+    "url": "https://github.com/tea3/hexo-tag-soundcloud/issues"
+  },
+  "keywords": [
+    "hexo",
+    "tag",
+    "soundcloud",
+    "embed",
+    "blog"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "tea3gt",
+      "email": "tea3gtinfo@gmail.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tea3/hexo-tag-soundcloud.git"
+  }
+}
