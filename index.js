@@ -16,9 +16,12 @@ hexo.extend.tag.register('soundcloud', function(args, content){
       autoplay: false
     };
     
+    
   	if(args[0] && args[0].match(/https\:\/\/soundcloud\.com\//)){
 	  	url = args[0];
-  	}else if(args[0] && args[0].match(/[0-9A-Za-z\_\-\/]+/)){
+  	}else if(args[0] && args[0].match(/^[0-9]+$/)){
+      url = 'https://api.soundcloud.com/tracks/'+args[0];
+    }else if(args[0] && args[0].match(/[0-9A-Za-z\_\-\/]+/)){
 		  url = "https://soundcloud.com/" + args[0];
   	}
     

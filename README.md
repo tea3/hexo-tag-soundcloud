@@ -23,13 +23,28 @@ npm install hexo-tag-soundcloud --save
 {% soundcloud url %}
 ```
 
+or
+
+```
+{% soundcloud track-id %}
+```
+
+
 ## Example
 
 ```
 {% soundcloud https://soundcloud.com/officialmedasin/daydream-ft-joba-1 %}
+
+or
+
+{% soundcloud officialmedasin/daydream-ft-joba-1 %}
+
+or
+
+{% soundcloud 275308631 %}
 ```
 
-In the above example, [this track](https://soundcloud.com/officialmedasin/daydream-ft-joba-1) can be embedded.
+In the above example, [this track](https://soundcloud.com/officialmedasin/daydream-ft-joba-1) can be embedded. All three example have the same contents can embed.
 
 
 ## Custom Players

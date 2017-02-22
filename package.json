@@ -1,6 +1,6 @@
 {
   "name": "hexo-tag-soundcloud",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index",
   "dependencies": {},
   "description": "Embed soundcloud tweet tag plugin for Hexo.",
