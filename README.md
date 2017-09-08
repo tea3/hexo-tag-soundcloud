@@ -8,7 +8,7 @@ This is a Hexo tag plugin which allows you to embed soundcloud tracks on your bl
 
 ## DEMO
 
-[https://tea3.github.io/p/hexo-tag-soundcloud/](https://tea3.github.io/p/hexo-tag-soundcloud/)
+[https://photo-tea.com/p/hexo-tag-soundcloud/](https://photo-tea.com/p/hexo-tag-soundcloud/)
 
 ## Installation
 

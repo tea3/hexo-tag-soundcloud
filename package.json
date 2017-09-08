@@ -1,6 +1,6 @@
 {
   "name": "hexo-tag-soundcloud",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index",
   "dependencies": {},
   "description": "Embed soundcloud tweet tag plugin for Hexo.",
@@ -9,7 +9,7 @@
   "author": {
     "email": "tea3gtinfo@gmail.com",
     "name": "tea3",
-    "url": "https://tea3.github.io/"
+    "url": "https://photo-tea.com/"
   },
   "bugs": {
     "url": "https://github.com/tea3/hexo-tag-soundcloud/issues"
